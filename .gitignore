@@ -1,0 +1,10 @@
+/.idea
+/.user.ini
+/.vscode
+/vendor
+*.log
+.env
+composer.lock
+/public/uploads
+/runtime
+.DS_Store
